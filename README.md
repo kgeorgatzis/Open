@@ -1,2 +1,2 @@
 # Open
-Feel free to add anything
+Feel free to add anything.
